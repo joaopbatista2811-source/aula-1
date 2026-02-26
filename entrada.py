@@ -34,3 +34,5 @@ nova_senha = 'a' + str(a_c) + 'e'+ str(e_c) + 'i'+ str(i_c) + 'o'+ str(o_c) + 'u
 print(nova_senha)
 
 
+nome = input('olá, seja bem vindo a criação do seu formulário, para começar, qual o seu nome?' )
+print('Seja bem vindo, ', nome, '') 
